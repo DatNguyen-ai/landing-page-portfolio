@@ -24,7 +24,7 @@ navLinks.forEach((link) => {
 	 khi nào cần thì mở lại
    =============================================== */
 
-(function () {
+/* (function () {
 	// Ngăn chặn menu chuột phải trên tất cả các hình ảnh
 	document.addEventListener("contextmenu", function (e) {
 		if (e.target.tagName === "IMG" || e.target.closest(".image-box")) {
@@ -51,3 +51,4 @@ navLinks.forEach((link) => {
 		}
 	});
 })();
+ */
