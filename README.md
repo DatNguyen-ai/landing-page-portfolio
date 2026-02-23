@@ -199,3 +199,63 @@ Grid tự động responsive không cần media query
 **Học được:**
 - 1fr 1.2fr → Info nhỏ hơn, Form lớn hơn
 - Form cần nhiều space hơn cho inputs
+
+
+# 🌐 Landing Page Portfolio
+Personal portfolio website showcasing web development skills and projects.
+## 🚀 Live Demo
+**[View Live Site →](https://datnguyen-ai.github.io/landing-page-portfolio/)**
+## 📸 Preview
+![Portfolio Screenshot](image/picture-landing-page.png)
+
+## 🛠️ Built With
+
+- HTML5
+- CSS3 (Flexbox, Grid, Animations)
+- Vanilla JavaScript
+- GitHub Pages
+
+## ✨ Features
+
+- ✅ Fixed responsive navigation
+- ✅ Full-screen hero section with animations
+- ✅ About section with profile
+- ✅ Skills showcase with cards
+- ✅ Projects portfolio with hover effects
+- ✅ Contact form with validation
+- ✅ Smooth scrolling & back-to-top button
+- ✅ Fully responsive design
+
+## 📂 Project Structure
+```
+landing-page-portfolio/
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── main.js
+├── images/
+└── README.md
+```
+
+## 🚀 Local Development
+```bash
+# Clone repository
+git clone https://github.com/datnguyen-ai/landing-page-portfolio.git
+
+# Navigate to project
+cd landing-page-portfolio
+
+# Open in browser
+open index.html
+```
+
+## 📧 Contact
+
+- **Email:** quocdat.space@gmail.com
+- **GitHub:** [@datnguyen-ai](https://github.com/datnguyen-ai)
+
+---
+
+⭐ **Star this repo if you like it!**
+Made with ❤️ and ☕
